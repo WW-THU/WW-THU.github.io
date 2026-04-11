@@ -40,7 +40,7 @@ I am passionate about leveraging physical sensing and data-driven models to enab
       <div class="badge">
         arXiv
       </div>
-      <img src='images/500x300.png' alt="sym" width="100%">
+      <img src='images/Fusion.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -113,20 +113,20 @@ I am passionate about leveraging physical sensing and data-driven models to enab
 
   [基于毫米波雷达微动信号和脉搏波数据融合的睡眠呼吸暂停低通气综合征筛查技术](https://radars.ac.cn/article/doi/10.12000/JR24107)  
 
- 赵翔, 王威, 李晨洋, 关建, 李刚
+ 赵翔, **王威**, 李晨洋, 关建, 李刚
 </div>
 
 
 
 # 🎖 Honors and Awards
-- *2025.12* **National Scholarship**, Ministry of Education (China). 
+- *2025.12* **National Scholarship**, Ministry of Education, China. 
 - *2025.04* Champion, Ma Yuehan Cup Volleyball Competition, Tsinghua University.
 - *2025.02* YOFC Scholarship, Department of Electronic Engineering, Tsinghua University.
 - *2024.12* Huiyan Talent Scholarship, Tsinghua University.
 - *2024.04* Wiley China Open Science High-Contribution Author Award, Wiley.
 - *2023.12* Hefei Talent Scholarship, Tsinghua University.
-- *2023.12* Outstanding Teaching Assistant Award, Tsinghua University.
-- *2023.10* Lu Daijin Outstanding Teaching Assistant Award (1st Prize), Department of Electronic Engineering, Tsinghua University.
+- *2023.12* **Outstanding Teaching Assistant Award**, Tsinghua University.
+- *2023.10* Lu Daijin Outstanding Teaching Assistant Award (First Prize), Department of Electronic Engineering, Tsinghua University.
 - *2020.10* China Optics Valley Scholarship, Tsinghua University.
 - *2019.10* Zhang Mingwei Scholarship, Tsinghua University.
 
