@@ -51,13 +51,69 @@ I am passionate about leveraging physical sensing and data-driven models to enab
   </div>
 </div>
 
--<span class="badge">IEEE EMBC 2024</span>
+<span class="badge">IEEE EMBC 2025</span>
 
 <div markdown="1">
 
-  [Detection of sleep apnea-hypopnea events using millimeter-wave radar and pulse oximeter](https://ieeexplore.ieee.org/abstract/document/10782344/)  
+  [Classification of mental disorders based on the fusion of millimeter-wave radar and photoplethysmography signals (**Oral Presentation**)](https://ieeexplore.ieee.org/abstract/document/11253770/)  
+
+  Wei Wang, Leilei Zheng, Wenyu Zhang, Zhaoxi Chen, Zetao Wang, Zheng Lin†, Gang Li†
+</div>
+
+<span class="badge">IEEE EMBC 2024</span>
+
+<div markdown="1">
+
+  [Detection of sleep apnea-hypopnea events using millimeter-wave radar and pulse oximeter (**Oral Presentation**)](https://ieeexplore.ieee.org/abstract/document/10782344/)  
 
   **Wei Wang**\*, Chenyang Li\*, Zhaoxi Chen, Wenyu Zhang, Zetao Wang, Xi Guo, Jian Guan, Gang Li†
+</div>
+
+<span class="badge">Sleep Health</span>
+
+<div markdown="1">
+
+  [Deep learning-based automated diagnosis of obstructive sleep apnea and sleep stage classification in children using millimeter-wave radar and pulse oximeter](https://www.sciencedirect.com/science/article/abs/pii/S2352721825001330)  
+
+  **Wei Wang**\*, Ruobing Song\*, Yunxiao Wu, Li Zheng, Wenyu Zhang, Zhaoxi Chen, Gang Li†, Zhifei Xu†
+</div>
+
+<span class="badge">Sleep Health</span>
+
+<div markdown="1">
+
+  [Validation of a low-load monitoring system based on millimeter-wave radar and pulse oximetry vs. polysomnography for obstructive sleep apnea diagnosis](https://www.sciencedirect.com/science/article/pii/S2352721825002104)  
+
+ Lin Sun\*, **Wei Wang**\*, Yiming Wang, Wenbin Guo, Zhuqi Chen, Jinping Zeng, Juan Zhang, Gang Li, Wenbin Lei†, Huijun Yue†
+</div>
+
+
+<span class="badge">IET RSN</span>
+
+<div markdown="1">
+
+  [Millimetre‐wave radar‐based spirometry for the preliminary diagnosis of chronic obstructive pulmonary disease（**Top Cited Article**）](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/rsn2.12479)  
+
+ **Wei Wang**\*, Yinghua Wan\*, Chengxi Li, Zhaoxi Chen, Wenyu Zhang, Lina Zhao, Jingquan Zhao, Xiangdong Mu†, Gang Li†
+</div>
+
+<span class="badge">中华耳鼻咽喉头颈外科杂志</span>
+
+<div markdown="1">
+
+  [新型雷达设备诊断阻塞性睡眠呼吸暂停：一项
+评价与多导睡眠监测等效性的平行对照研究（**获中国临床权威指南引用推荐**）](https://rs.yiigle.com/cmaid/1512999)  
+
+ 李晨洋\*, **王威**\*, 黄炜峻, 许华俊, 易红良, 关建, 李刚†, 殷善开† 
+</div>
+
+<span class="badge">雷达学报</span>
+
+<div markdown="1">
+
+  [基于毫米波雷达微动信号和脉搏波数据融合的睡眠呼吸暂停低通气综合征筛查技术](https://radars.ac.cn/article/doi/10.12000/JR24107)  
+
+ 赵翔, 王威, 李晨洋, 关建, 李刚
 </div>
 
 
