@@ -44,8 +44,9 @@ I am passionate about leveraging physical sensing and data-driven models to enab
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-    [Fusion of millimeter-wave radar and pulse oximeter data for low-burden diagnosis of obstructive sleep apnea-hypopnea syndrome](https://arxiv.org/abs/2501.15264)
-    **Wei Wang**, Zhaoxi Chen, Wenyu Zhang, Zetao Wang, Xiang Zhao, Chenyang Li, Jian Guan, Shankai Yin, Gang Li†
+    [Fusion of millimeter-wave radar and pulse oximeter data for low-burden diagnosis of obstructive sleep apnea-hypopnea syndrome](https://arxiv.org/abs/2501.15264)  
+
+  **Wei Wang**, Zhaoxi Chen, Wenyu Zhang, Zetao Wang, Xiang Zhao, Chenyang Li, Jian Guan, Shankai Yin, Gang Li†
   </div>
 </div>
 
