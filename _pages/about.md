@@ -20,21 +20,15 @@ redirect_from:
 
 I’m Wei Wang (王威), a Ph.D. candidate in Department of Electronic Engineering, Tsinghua University. I received Bachelor's degree in Department of Electronic Engineering, Tsinghua University at 2021.
 
-My research interest includes wireless sensing, deep learning and AI-driven healthcare. I have published 8 papers, including 7 as the first/co-first author in international journals and conference (IEEE IoT, Sleep Health, IET RSN, IEEE EMBC...) with a citation of <a href='https://scholar.google.com.hk/citations?user=U43mxM0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. I hope to do research that is interesting and useful.
+My research interest includes wireless sensing, deep learning and AI-driven healthcare. I have published 8 papers, including 7 as the first/co-first author in international journals and conference (IEEE IoT, Sleep Health, IET RSN, IEEE EMBC, etc), with citations of <a href='https://scholar.google.com.hk/citations?user=U43mxM0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
-
-
-If you are interested in any of my works or potential collaborations, feel free to reach out—I’d be happy to connect!
-
-
-
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am passionate about leveraging physical sensing and data-driven models to enable scalable and accessible healthcare solutions. I am open to collaboration and welcome opportunities for academic and industrial partnerships.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.04*: &nbsp;📒📒 Doctoral Thesis Submitted. 
+- *2025.12*: &nbsp;🎉🎉 Awarded the National Scholarship.
+
 
 # 📝 Publications 
 
@@ -53,16 +47,25 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.12* National Scholarship, Ministry of Education (China). 
+- *2025.04* Champion, Ma Yuehan Cup Volleyball Competition, Tsinghua University.
+- *2025.02* YOFC Scholarship, Department of Electronic Engineering, Tsinghua University.
+- *2024.12* Huiyan Talent Scholarship, Tsinghua University.
+- *2024.04* Wiley China Open Science High-Contribution Author Award, Wiley.
+- *2023.12* Hefei Talent Scholarship, Tsinghua University.
+- *2023.12* Outstanding Teaching Assistant Award, Tsinghua University.
+- *2023.10* Lu Daijin Outstanding Teaching Assistant Award (1st Prize), Department of Electronic Engineering, Tsinghua University.
+- *2020.10* China Optics Valley Scholarship, Tsinghua University.
+- *2019.10* Zhang Mingwei Scholarship, Tsinghua University.
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.08 - 2026.06 (now)*, Ph.D., Department of Electronic Engineering, Tsinghua University.
+- *2017.08 - 2021.06*, Bachelor, Department of Electronic Engineering, Tsinghua University.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+% # 💬 Invited Talks
+% - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+% - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.06 - 2023.08*, Nanjing Turing Artificial Intelligence Institute, Jiangsu, China.
