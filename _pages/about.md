@@ -17,7 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+
+I’m Wei Wang (王威), a Ph.D. candidate in Department of Electronic Engineering, Tsinghua University. I received Bachelor's degree in Department of Electronic Engineering, Tsinghua University at 2021.
+
+My research interest includes wireless sensing, deep learning and AI-driven healthcare. I have published 8 papers, including 7 as the first/co-first author in international journals and conference (IEEE IoT, Sleep Health, IET RSN, IEEE EMBC...) with total <a href='https://scholar.google.com.hk/citations?user=U43mxM0AAAAJ&hl=zh-CN'>google scholar citations <strong><span id='total_cit'>20+</span></strong> citation. I hope to do research that is interesting and useful.
+
+If you are interested in any of my works or potential collaborations, feel free to reach out—I’d be happy to connect!
+
+
+
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
