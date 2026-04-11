@@ -51,7 +51,7 @@ I am passionate about leveraging physical sensing and data-driven models to enab
   </div>
 </div>
 
-<span class="badge">IEEE EMBC 2025</span>
+-<span class="badge">IEEE EMBC 2025</span>
 
 <div markdown="1">
 
@@ -60,7 +60,7 @@ I am passionate about leveraging physical sensing and data-driven models to enab
   Wei Wang, Leilei Zheng, Wenyu Zhang, Zhaoxi Chen, Zetao Wang, Zheng Lin†, Gang Li†
 </div>
 
-<span class="badge">IEEE EMBC 2024</span>
+-<span class="badge">IEEE EMBC 2024</span>
 
 <div markdown="1">
 
@@ -69,7 +69,7 @@ I am passionate about leveraging physical sensing and data-driven models to enab
   **Wei Wang**\*, Chenyang Li\*, Zhaoxi Chen, Wenyu Zhang, Zetao Wang, Xi Guo, Jian Guan, Gang Li†
 </div>
 
-<span class="badge">Sleep Health</span>
+-<span class="badge">Sleep Health</span>
 
 <div markdown="1">
 
@@ -78,7 +78,7 @@ I am passionate about leveraging physical sensing and data-driven models to enab
   **Wei Wang**\*, Ruobing Song\*, Yunxiao Wu, Li Zheng, Wenyu Zhang, Zhaoxi Chen, Gang Li†, Zhifei Xu†
 </div>
 
-<span class="badge">Sleep Health</span>
+-<span class="badge">Sleep Health</span>
 
 <div markdown="1">
 
@@ -88,7 +88,7 @@ I am passionate about leveraging physical sensing and data-driven models to enab
 </div>
 
 
-<span class="badge">IET RSN</span>
+-<span class="badge">IET RSN</span>
 
 <div markdown="1">
 
@@ -97,7 +97,7 @@ I am passionate about leveraging physical sensing and data-driven models to enab
  **Wei Wang**\*, Yinghua Wan\*, Chengxi Li, Zhaoxi Chen, Wenyu Zhang, Lina Zhao, Jingquan Zhao, Xiangdong Mu†, Gang Li†
 </div>
 
-<span class="badge">中华耳鼻咽喉头颈外科杂志</span>
+-<span class="badge">中华耳鼻咽喉头颈外科杂志</span>
 
 <div markdown="1">
 
@@ -107,7 +107,7 @@ I am passionate about leveraging physical sensing and data-driven models to enab
  李晨洋\*, **王威**\*, 黄炜峻, 许华俊, 易红良, 关建, 李刚†, 殷善开† 
 </div>
 
-<span class="badge">雷达学报</span>
+-<span class="badge">雷达学报</span>
 
 <div markdown="1">
 
@@ -119,7 +119,7 @@ I am passionate about leveraging physical sensing and data-driven models to enab
 
 
 # 🎖 Honors and Awards
-- *2025.12* National Scholarship, Ministry of Education (China). 
+- *2025.12* **National Scholarship**, Ministry of Education (China). 
 - *2025.04* Champion, Ma Yuehan Cup Volleyball Competition, Tsinghua University.
 - *2025.02* YOFC Scholarship, Department of Electronic Engineering, Tsinghua University.
 - *2024.12* Huiyan Talent Scholarship, Tsinghua University.
@@ -134,10 +134,6 @@ I am passionate about leveraging physical sensing and data-driven models to enab
 # 📖 Educations
 - *2021.08 - 2026.06 (now)*, Ph.D., Department of Electronic Engineering, Tsinghua University.
 - *2017.08 - 2021.06*, Bachelor, Department of Electronic Engineering, Tsinghua University.
-
-% # 💬 Invited Talks
-% - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-% - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
 - *2023.06 - 2023.08*, Nanjing Turing Artificial Intelligence Institute, Jiangsu, China.
