@@ -51,11 +51,13 @@ I am passionate about leveraging physical sensing and data-driven models to enab
   </div>
 </div>
 
-<div class="badge">IEEE EMBC 2024</div>
-<div markdown="1">
-  
-[Detection of sleep apnea-hypopnea events using millimeter-wave radar and pulse oximeter](https://ieeexplore.ieee.org/abstract/document/10782344/) **Wei Wang***, Chenyang Li*, Zhaoxi Chen, Wenyu Zhang, Zetao Wang, Xi Guo, Jian Guan, Gang Li†
+-<span class="badge">IEEE EMBC 2024</span>
 
+<div markdown="1">
+
+  [Detection of sleep apnea-hypopnea events using millimeter-wave radar and pulse oximeter](https://ieeexplore.ieee.org/abstract/document/10782344/)  
+
+  **Wei Wang**\*, Chenyang Li\*, Zhaoxi Chen, Wenyu Zhang, Zetao Wang, Xi Guo, Jian Guan, Gang Li†
 </div>
 
 
