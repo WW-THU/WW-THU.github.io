@@ -32,19 +32,31 @@ I am passionate about leveraging physical sensing and data-driven models to enab
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+(* indicates equal contribution, † indicates corresponding authors.)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Fusion of millimeter-wave radar and pulse oximeter data for low-burden diagnosis of obstructive sleep apnea-hypopnea syndrome](https://arxiv.org/abs/2501.15264)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Wei Wang**, Zhaoxi Chen, Wenyu Zhang, Zetao Wang, Xiang Zhao, Chenyang Li, Jian Guan, Shankai Yin, Gang Li†
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div><div class="badge">IEEE EMBC 2024</div></div></div><div class='paper-box-text' markdown="1">
+
+[Detection of sleep apnea-hypopnea events using millimeter-wave radar and pulse oximeter](https://ieeexplore.ieee.org/abstract/document/10782344/)
+
+**Wei Wang***, Chenyang Li*, Zhaoxi Chen, Wenyu Zhang, Zetao Wang, Xi Guo, Jian Guan, Gang Li†
+
+</div>
+</div>
+
+
+
+
+
 
 # 🎖 Honors and Awards
 - *2025.12* National Scholarship, Ministry of Education (China). 
