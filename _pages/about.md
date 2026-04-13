@@ -51,6 +51,25 @@ I am passionate about leveraging physical sensing and data-driven models to enab
   </div>
 </div>
 
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">
+        IET RSN
+      </div>
+      <img src='images/Spirometry.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  [Millimetre‐wave radar‐based spirometry for the preliminary diagnosis of chronic obstructive pulmonary disease（**Top Cited Article**）](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/rsn2.12479)  
+
+  **Wei Wang**\*, Yinghua Wan\*, Chengxi Li, Zhaoxi Chen, Wenyu Zhang, Lina Zhao, Jingquan Zhao, Xiangdong Mu†, Gang Li†
+  </div>
+</div>
+
+
 -<span class="badge">IEEE EMBC 2025</span>
 
 <div markdown="1">
@@ -87,15 +106,6 @@ I am passionate about leveraging physical sensing and data-driven models to enab
  Lin Sun\*, **Wei Wang**\*, Yiming Wang, Wenbin Guo, Zhuqi Chen, Jinping Zeng, Juan Zhang, Gang Li, Wenbin Lei†, Huijun Yue†
 </div>
 
-
--<span class="badge">IET RSN</span>
-
-<div markdown="1">
-
-  [Millimetre‐wave radar‐based spirometry for the preliminary diagnosis of chronic obstructive pulmonary disease（**Top Cited Article**）](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/rsn2.12479)  
-
- **Wei Wang**\*, Yinghua Wan\*, Chengxi Li, Zhaoxi Chen, Wenyu Zhang, Lina Zhao, Jingquan Zhao, Xiangdong Mu†, Gang Li†
-</div>
 
 -<span class="badge">中华耳鼻咽喉头颈外科杂志</span>
 
