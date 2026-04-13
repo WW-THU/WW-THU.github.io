@@ -76,7 +76,7 @@ I am passionate about leveraging physical sensing and data-driven models to enab
 
   [Classification of mental disorders based on the fusion of millimeter-wave radar and photoplethysmography signals (**Oral Presentation**)](https://ieeexplore.ieee.org/abstract/document/11253770/)  
 
-  Wei Wang, Leilei Zheng, Wenyu Zhang, Zhaoxi Chen, Zetao Wang, Zheng Lin†, Gang Li†
+  **Wei Wang**\*, Leilei Zheng\*, Wenyu Zhang, Zhaoxi Chen, Zetao Wang, Zheng Lin†, Gang Li†
 </div>
 
 -<span class="badge">IEEE EMBC 2024</span>
