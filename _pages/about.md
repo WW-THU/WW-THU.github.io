@@ -26,6 +26,7 @@ I am passionate about leveraging physical sensing and data-driven models to enab
 
 
 # 🔥 News
+- *2026.06*: &nbsp;🎓🎓 Received Ph.D from Tsinghua University. (Outstanding Graduate of Beijing Institutions of Higher Education)
 - *2026.04*: &nbsp;📒📒 Doctoral Thesis Submitted. 
 - *2025.12*: &nbsp;🎉🎉 Awarded the National Scholarship.
 
