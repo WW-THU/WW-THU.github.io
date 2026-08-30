@@ -18,7 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I’m Wei Wang (王威), a Ph.D. candidate in Department of Electronic Engineering, Tsinghua University. I received Bachelor's degree in Department of Electronic Engineering, Tsinghua University at 2021.
+I’m Wei Wang (王威). I received the B.S. and Ph.D. degrees in electronic engineering from Tsinghua University, Beijing, China, in 2021 and 
+2026, respectively. 
 
 My research interest includes wireless sensing, deep learning and AI-driven healthcare. I have published 8 papers, including 7 as the first/co-first author in international journals and conference (IEEE IoT, Sleep Health, IET RSN, IEEE EMBC, etc), with citations of <a href='https://scholar.google.com.hk/citations?user=U43mxM0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
