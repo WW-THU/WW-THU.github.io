@@ -39,14 +39,14 @@ I am passionate about leveraging physical sensing and data-driven models to enab
   <div class='paper-box-image'>
     <div>
       <div class="badge">
-        arXiv
+        IEEE IoT
       </div>
       <img src='images/Fusion.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
 
-  [Fusion of millimeter-wave radar and pulse oximeter data for low-burden diagnosis of obstructive sleep apnea-hypopnea syndrome](https://arxiv.org/abs/2501.15264)  
+  [Fusion of millimeter-wave radar and pulse oximeter data for low-burden diagnosis of obstructive sleep apnea-hypopnea syndrome](10.1109/JIOT.2026.3727912)  
 
   **Wei Wang**, Zhaoxi Chen, Wenyu Zhang, Zetao Wang, Xiang Zhao, Chenyang Li, Jian Guan, Shankai Yin, Gang Li†
   </div>
