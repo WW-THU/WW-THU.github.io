@@ -130,6 +130,7 @@ I am passionate about leveraging physical sensing and data-driven models to enab
 
 
 # 🎖 Honors and Awards
+- *2026.06* Outstanding Graduate of Beijing Institutions of Higher Education, Education Commission, Beijing.
 - *2025.12* **National Scholarship**, Ministry of Education, China. 
 - *2025.04* Champion, Ma Yuehan Cup Volleyball Competition, Tsinghua University.
 - *2025.02* YOFC Scholarship, Department of Electronic Engineering, Tsinghua University.
