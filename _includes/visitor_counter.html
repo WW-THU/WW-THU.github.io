@@ -1,0 +1,11 @@
+{% if site.liveflagcounter_id and site.liveflagcounter_id != "" %}
+<section class="visitor-counter" aria-labelledby="visitor-counter-title">
+  <h2 id="visitor-counter-title">Visitors</h2>
+  <div class="visitor-counter__widget">
+    <a href="https://liveflagcounter.com/stats/{{ site.liveflagcounter_id | url_encode }}" target="_blank" rel="noopener noreferrer" aria-label="View visitor statistics">
+      <img src="https://liveflagcounter.com/c/{{ site.liveflagcounter_id | url_encode }}.png" alt="Visitor counts by country and region — Live Flag Counter" width="{{ site.liveflagcounter_width | default: 306 }}" style="max-width:100%;height:auto" referrerpolicy="strict-origin-when-cross-origin">
+    </a>
+  </div>
+  <p class="visitor-counter__note">Approximate visitor locations based on IP addresses. Click the flags for statistics.</p>
+</section>
+{% endif %}

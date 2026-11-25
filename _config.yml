@@ -161,3 +161,8 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# Visitor counter: copy the public ID and image width from the embed code.
+# Leave empty to hide the section until the widget is configured.
+liveflagcounter_id: "2rfzkmpF"
+liveflagcounter_width: 306
