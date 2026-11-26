@@ -8,8 +8,8 @@
 # Site Settings
 title                    : "Wei Wang"
 description              : "Ph.D, Electronic Engineering"
-repository               : "WW-THU/wangw.github.io"
-google_scholar_stats_use_cdn : true
+repository               : "WW-THU/WW-THU.github.io"
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -27,7 +27,7 @@ author:
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=U43mxM0AAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=U43mxM0AAAAJ"
   email            : "wangw21@mails.tsinghua.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
