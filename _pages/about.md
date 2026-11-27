@@ -145,7 +145,7 @@ I am passionate about leveraging physical sensing and data-driven models to enab
 
 
 # 📖 Educations
-- *2021.08 - 2026.06 (now)*, Ph.D., Department of Electronic Engineering, Tsinghua University.
+- *2021.08 - 2026.06*, Ph.D., Department of Electronic Engineering, Tsinghua University.
 - *2017.08 - 2021.06*, Bachelor, Department of Electronic Engineering, Tsinghua University.
 
 # 💻 Work Experience
