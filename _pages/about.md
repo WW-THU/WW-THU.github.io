@@ -148,7 +148,8 @@ I am passionate about leveraging physical sensing and data-driven models to enab
 - *2021.08 - 2026.06 (now)*, Ph.D., Department of Electronic Engineering, Tsinghua University.
 - *2017.08 - 2021.06*, Bachelor, Department of Electronic Engineering, Tsinghua University.
 
-# 💻 Internships
+# 💻 Work Experience
+- *2026.08 - now*, HUAWEI, Hangzhou, China.
 - *2023.06 - 2023.08*, Nanjing Turing Artificial Intelligence Institute, Jiangsu, China.
 
 {% include visitor_counter.html %}
